@@ -1,0 +1,270 @@
+{
+  "course": "社會心理學",
+  "title": "社會心理學｜個人學習 Wiki",
+  "description": "整合第 1～7 章的課程知識、名詞解釋、練習題、個人答案與訂正紀錄。",
+  "chapters": [
+    {
+      "id": "ch01",
+      "number": "01",
+      "title": "導論",
+      "english": "Introducing Social Psychology",
+      "status": "部分整理",
+      "terms": 18,
+      "summary": "介紹社會心理學的研究範圍、社會情境如何影響個體，以及人們如何解讀社會世界。",
+      "topics": [
+        "社會心理學的研究對象與方法",
+        "社會影響與情境力量",
+        "個體如何解讀同一社會事件"
+      ],
+      "todo": "需將母檔中的正式名詞、原始題目、使用者原答與逐題訂正內容逐筆匯入；正式章節細節以講義核對。"
+    },
+    {
+      "id": "ch02",
+      "number": "02",
+      "title": "研究方法",
+      "english": "正式中英文章名待核對",
+      "status": "部分整理",
+      "terms": 14,
+      "summary": "整理社會心理學研究設計、變項、測量、相關與因果推論等研究方法概念。",
+      "topics": [
+        "研究問題與假設",
+        "研究設計、變項與操作型定義",
+        "相關研究與實驗研究",
+        "效度、倫理與研究限制"
+      ],
+      "todo": "正式中英文章名待核對；需逐筆匯入母檔名詞、題目、原答與訂正內容。"
+    },
+    {
+      "id": "ch03",
+      "number": "03",
+      "title": "社會認知：我們如何看待社會？",
+      "english": "Social Cognition: How We Think About the Social World",
+      "status": "部分整理",
+      "terms": 16,
+      "summary": "探討人們如何選擇、解讀、儲存及運用社會資訊，並形成對自己與他人的判斷。",
+      "topics": [
+        "社會訊息處理",
+        "捷思與認知偏誤",
+        "基模與自動化處理",
+        "歸因與判斷"
+      ],
+      "todo": "需依講義核對正式名詞與定義，並補齊原始題目、原答及訂正紀錄。"
+    },
+    {
+      "id": "ch04",
+      "number": "04",
+      "title": "社會知覺：我們如何了解別人",
+      "english": "Social Perception: How We Come to Understand Other People",
+      "status": "部分整理",
+      "terms": 21,
+      "summary": "整理人們如何從外表、非語言訊息、行為與情境線索形成對他人的印象與歸因。",
+      "topics": [
+        "非語言溝通",
+        "第一印象與印象形成",
+        "歸因歷程",
+        "文化與情境線索"
+      ],
+      "todo": "需依講義逐筆核對定義與研究細節；尚未逐一核對的補充定義須標示為參考內容。"
+    },
+    {
+      "id": "ch05",
+      "number": "05",
+      "title": "自我瞭解：在社會脈絡中認識自己",
+      "english": "Understanding Ourselves in a Social Context",
+      "status": "部分整理",
+      "terms": 28,
+      "summary": "探討自我概念、自我知識、自我評價，以及社會情境如何形塑個體對自己的理解。",
+      "topics": [
+        "自我概念與自我知識",
+        "自我評價與自尊",
+        "自我調節",
+        "社會比較與自我理解"
+      ],
+      "todo": "目前 28 項為初步統計，尚待依完整 Wiki 逐項確認；不可視為已核定的正式名詞總數。"
+    },
+    {
+      "id": "ch06",
+      "number": "06",
+      "title": "認知失調與維護自尊的需求",
+      "english": "The Need to Justify Our Actions: The Costs and Benefits of Dissonance Reduction",
+      "status": "部分整理",
+      "terms": 13,
+      "summary": "說明認知、態度與行為不一致時產生的心理不適，以及個體如何降低失調並維護自我形象。",
+      "topics": [
+        "認知失調理論",
+        "失調降低策略",
+        "外部理由與內部理由",
+        "自我肯定與自我評價維護"
+      ],
+      "todo": "目前 13 項為初步統計，需依母檔核對完整名詞、題目與訂正紀錄。"
+    },
+    {
+      "id": "ch07",
+      "number": "07",
+      "title": "態度和態度的改變：影響想法和感覺",
+      "english": "Attitudes and Persuasion",
+      "status": "已建立初步整理",
+      "terms": 21,
+      "summary": "從態度的形成與組成、態度和行為的關係、說服歷程，到抵抗說服的策略，建立完整概念架構。",
+      "topics": [
+        "態度的三個成分與態度基礎",
+        "態度如何預測行為",
+        "說服性溝通與 ELM／HSM",
+        "恐懼訴求、閾下訊息與情緒",
+        "態度免疫、置入性行銷與抗拒理論"
+      ],
+      "todo": "21 個名詞概念卡與 7 題申論題已初步整理；仍需逐頁核對講義、完整收錄練習卷原題／原答及標示來源層級。"
+    }
+  ],
+  "terms7": [
+    {
+      "term": "態度的三個成分",
+      "english": "認知、情感與行為成分",
+      "definition": "態度可由個體對態度對象的信念、情緒反應，以及行為傾向構成。"
+    },
+    {
+      "term": "以認知為基礎的態度",
+      "english": "Cognitively Based Attitude",
+      "definition": "主要根據對態度對象的信念、屬性與理性評估形成。"
+    },
+    {
+      "term": "以情感為基礎的態度",
+      "english": "Affectively Based Attitude",
+      "definition": "主要根據情緒、價值觀與感受形成。"
+    },
+    {
+      "term": "以行為為基礎的態度",
+      "english": "Behaviorally Based Attitude",
+      "definition": "根據個體對態度對象的行為或行為觀察形成。"
+    },
+    {
+      "term": "自我知覺理論",
+      "english": "Self-Perception Theory",
+      "definition": "當內在態度或感受不明確時，個體可能像觀察他人一樣，從自己的行為及情境推論態度。"
+    },
+    {
+      "term": "外顯態度與內隱態度",
+      "english": "Explicit and Implicit Attitudes",
+      "definition": "外顯態度是可有意識報告的評價；內隱態度是較自動化、不一定能被意識察覺或準確報告的評價。"
+    },
+    {
+      "term": "態度可提取性",
+      "english": "Attitude Accessibility",
+      "definition": "態度與態度對象之間連結的強度；越容易從記憶中提取，通常越可能影響當下判斷與行為。"
+    },
+    {
+      "term": "計畫行為理論",
+      "english": "Theory of Planned Behavior",
+      "definition": "行為意圖受到對行為的態度、主觀規範與知覺行為控制影響；實際行為也受實際控制條件影響。"
+    },
+    {
+      "term": "說服性溝通",
+      "english": "Persuasive Communication",
+      "definition": "試圖改變他人態度的溝通訊息。"
+    },
+    {
+      "term": "耶魯態度改變研究取向",
+      "english": "Yale Attitude Change Approach",
+      "definition": "分析說服時考量溝通來源（Who）、訊息內容（What）與聽眾（Whom）。"
+    },
+    {
+      "term": "睡眠者效應",
+      "english": "Sleeper Effect",
+      "definition": "一段時間後，訊息內容的影響可能保留，而來源可信度等線索的影響減弱，使原本較不具說服力的訊息效果增加。"
+    },
+    {
+      "term": "初始效應",
+      "english": "Primacy Effect",
+      "definition": "較早出現的資訊對整體印象或判斷產生較大影響。"
+    },
+    {
+      "term": "新近效應",
+      "english": "Recency Effect",
+      "definition": "較晚出現的資訊對整體印象或判斷產生較大影響。"
+    },
+    {
+      "term": "慎思可能性模式",
+      "english": "Elaboration Likelihood Model, ELM",
+      "definition": "說服可經由中央途徑（深入評估論點）或邊緣途徑（依賴周邊線索）發生。"
+    },
+    {
+      "term": "激起恐懼的溝通",
+      "english": "Fear-Arousing Communications",
+      "definition": "呈現威脅及負面後果以引發恐懼，促使態度或行為改變；需搭配有效且可行的因應方法。"
+    },
+    {
+      "term": "捷思－系統化說服模式",
+      "english": "Heuristic-Systematic Model, HSM",
+      "definition": "說服可能透過系統化處理訊息內容，或依賴簡化的捷思線索形成判斷。"
+    },
+    {
+      "term": "以情緒為捷思",
+      "english": "Affect as Information / Affect Heuristic",
+      "definition": "個體可能以當下感受作為評價事物的資訊，但若誤判情緒來源，可能產生錯誤判斷。"
+    },
+    {
+      "term": "閾下訊息",
+      "english": "Subliminal Messages",
+      "definition": "呈現強度或時間低於意識知覺閾限、個體無法有意識察覺的訊息；不可誇大其影響。"
+    },
+    {
+      "term": "態度免疫",
+      "english": "Attitude Inoculation",
+      "definition": "先接觸較弱的反對論點並練習反駁，以增強日後抵抗更強說服的能力。"
+    },
+    {
+      "term": "置入性行銷",
+      "english": "Product Placement",
+      "definition": "將商品或品牌融入節目、影片等媒體內容中呈現。"
+    },
+    {
+      "term": "抗拒理論",
+      "english": "Reactance Theory",
+      "definition": "當個體感到自由選擇受到威脅時，可能產生恢復自由的動機，進而反抗或更想選擇被限制的選項。"
+    }
+  ],
+  "essays7": [
+    {
+      "id": "E07-09",
+      "title": "態度為什麼不一定能預測行為？",
+      "status": "已完成訂正",
+      "focus": "LaPiere 研究、態度可提取性、計畫行為理論、情境與測量限制。"
+    },
+    {
+      "id": "E07-10",
+      "title": "認知失調與態度改變",
+      "status": "已完成訂正",
+      "focus": "認知不一致、降低失調的方式、外部理由充分／不足、態度改變。"
+    },
+    {
+      "id": "E07-11",
+      "title": "如何設計有效的說服性溝通？",
+      "status": "已完成訂正",
+      "focus": "Yale 取向的 Who／What／Whom，以及 ELM 中央／邊緣途徑。"
+    },
+    {
+      "id": "E07-12",
+      "title": "中央途徑與邊緣途徑的實際應用",
+      "status": "已完成訂正",
+      "focus": "論點品質、動機與能力、態度持久性、態度／意圖／行為的區分。"
+    },
+    {
+      "id": "E07-13",
+      "title": "恐懼訴求與情緒對說服的影響",
+      "status": "已完成訂正",
+      "focus": "知覺嚴重性、知覺易感性、反應效能、自我效能，以及過強恐懼的防衛反應。"
+    },
+    {
+      "id": "E07-14",
+      "title": "廣告、閾下訊息與文化差異",
+      "status": "已完成訂正",
+      "focus": "個人主義／集體主義、情感訴求、閾下訊息與置入性行銷的區別。"
+    },
+    {
+      "id": "E07-15",
+      "title": "抵抗說服：態度免疫、置入性行銷與抗拒理論",
+      "status": "已完成訂正",
+      "focus": "態度免疫、辨識置入性行銷、媒體識讀、自由受威脅與心理抗拒。"
+    }
+  ]
+}
